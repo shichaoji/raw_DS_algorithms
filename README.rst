@@ -1,1 +1,1 @@
-build data science models for learning
+build data science models from scratch for learning purposes
