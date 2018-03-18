@@ -10,3 +10,4 @@ src/__init__.py
 src/base.py
 src/jupyter.py
 src/norms.py
+src/ori_regression.py
