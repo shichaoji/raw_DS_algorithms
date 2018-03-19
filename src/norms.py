@@ -37,3 +37,4 @@ class l1_l2_regularization():
         l2_contr = (1 - self.l1_ratio) * w
         return self.alpha * (l1_contr + l2_contr) 
     
+    
