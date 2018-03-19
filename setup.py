@@ -20,7 +20,7 @@ with open(os.path.join(_HERE, 'README.rst'),'r+') as fh:
 
 setup(
     name = "MLedu",
-    version = "0.0.2.2",
+    version = "0.0.2.3",
     description = "build machine learning models for education purpose",
     long_description = long_description,
     author = "Shichao(Richard) Ji",
